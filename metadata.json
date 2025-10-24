@@ -1,0 +1,5 @@
+{
+  "name": "AI Marketing Content Generator",
+  "description": "An AI-powered tool that automatically creates high-quality marketing materials using Google's Gemini AI. It generates social media captions, ad posters, trend analyses, website advice, email campaigns, marketing strategies, and brand voice guides tailored to your business.",
+  "requestFramePermissions": []
+}
